@@ -1,0 +1,8 @@
+ipykernel
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+streamlit
+cassandra-driver
